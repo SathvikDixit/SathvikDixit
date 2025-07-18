@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Sathvik Dixit 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=435&lines=Turning+Coffee+into+Code;CS+Student+%7C+7th+Sem;Learning+React.js+%26+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=435&lines=Crafting+Code+with+Purpose;CS+Student+%7C+7th+Sem;Learning+React.js+%26+Blockchain" alt="Typing SVG" />
 </p>
+
 
 
 ---
