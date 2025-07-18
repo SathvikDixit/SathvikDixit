@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sathvik Dixit 👋</h1>
 
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=4&pause=1000&color=FAFAFA&width=435&lines=Crafting+Code+with+Purpose;CS+student+%7C+7th+sem)](https://git.io/typing-svg)" />
+  <img src="[(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=4&pause=1000&color=FAFAFA&width=435&lines=Crafting+Code+with+Purpose;CS+student+%7C+7th+sem)](https://git.io/typing-svg)" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **FRONT END PROJECT**
 - 🌱 Learning **React.js, **
 - 🎯 Aspiring to become a **Software Developer**
-- 💬 Ask me about **Web Development, Blockchain, and DSA**
+- 💬 Ask me about **Web Development and DSA**
 
 ---
 
