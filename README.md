@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sathvik Dixit 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;CS+Student+%7C+6th+Sem;Learning+React.js+%26+Blockchain" />
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=4&pause=1000&color=FAFAFA&width=435&lines=Crafting+Code+with+Purpose;CS+student+%7C+7th+sem)](https://git.io/typing-svg)" />
 </p>
 
 ---
