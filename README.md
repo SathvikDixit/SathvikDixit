@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **FRONT END PROJECT**
-- 🌱 Learning **React.js, **
+- 🌱 Learning **Node.js, **
 - 🎯 Aspiring to become a **Software Developer**
 - 💬 Ask me about **Web Development and DSA**
 
